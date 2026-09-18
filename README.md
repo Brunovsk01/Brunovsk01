@@ -7,7 +7,7 @@
 * 👯 Buscando colaborar em **projetos de tecnologia, suporte e infraestrutura**
 * 🤔 Buscando aprimorar meus conhecimentos em **programação e tecnologia**
 * 💬 Pode falar comigo sobre **Windows, hardware, redes e suporte técnico**
-* 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/brunodossantosdasilva/) | [E-mail](mailto:brunodsantos.silv1@gmail.com)
+* 📫 Contato: brunodsantos.silv1@gmail.com 
 * ⚡ Tenho bons conhecimentos do **ambiente Windows**, incluindo configuração, otimização, troubleshooting e gerenciamento do sistema
 
 ## 🛠️ Tecnologias e Ferramentas
