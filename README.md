@@ -6,15 +6,16 @@
 * 🌱 Atualmente estudando **Python, C e Java**
 * 👯 Buscando colaborar em **projetos de tecnologia, suporte e infraestrutura**
 * 🤔 Buscando aprimorar meus conhecimentos em **programação e tecnologia**
-* 💬 Pode falar comigo sobre **Windows, hardware, redes e suporte técnico**
-* 📫 Contato: brunodsantos.silv1@gmail.com 
+* 💬 Pode falar comigo sobre **Windows, Linux, hardware, redes e suporte técnico**
+* 📫 Contato: [brunodsantos.silv1@gmail.com](mailto:brunodsantos.silv1@gmail.com)
 * ⚡ Tenho bons conhecimentos do **ambiente Windows**, incluindo configuração, otimização, troubleshooting e gerenciamento do sistema
 
 ## 🛠️ Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,powershell,linux)](https://skillicons.dev)
 
 **Windows:** PowerShell e Prompt de Comando (CMD)
+**Linux:** Uso e configuração de sistemas Linux
 
 ## 💻 Projetos
 
@@ -32,11 +33,10 @@ Projetos desenvolvidos durante a graduação em **Ciência da Computação**, en
 * C
 * Java
 * PowerShell
-* Administração e configuração do Windows
+* Linux
+* Administração e configuração de sistemas operacionais
 * Suporte técnico e infraestrutura de TI
 
 ## 🌐 Contatos
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=brunodsantosdasilva@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/brunodossantosdasilva/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=brunodsantos.silv1@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/brunodossantosdasilva/)
