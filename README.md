@@ -16,7 +16,27 @@
 
 **Windows:** PowerShell e Prompt de Comando (CMD)
 
+## 💻 Projetos
+
+### 🪟 Windows — Otimização e Configuração
+
+Repositórios com ajustes, scripts e configurações para **Windows**, incluindo otimização do sistema, gerenciamento de serviços, PowerShell, CMD e troubleshooting.
+
+### 🎓 Projetos Acadêmicos
+
+Projetos desenvolvidos durante a graduação em **Ciência da Computação**, envolvendo programação, desenvolvimento de aplicações e outras atividades práticas.
+
+## 📚 Atualmente estudando
+
+* Python
+* C
+* Java
+* PowerShell
+* Administração e configuração do Windows
+* Suporte técnico e infraestrutura de TI
+
 ## 🌐 Contatos
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunodsantos.silv1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunodossantosdasilva/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=brunodsantosdasilva@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/brunodossantosdasilva/)
