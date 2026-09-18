@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**Brunovsk01/Brunovsk01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Ciência da Computação**, em busca da minha primeira oportunidade profissional na área de **Tecnologia da Informação**.
 
-Here are some ideas to get you started:
+* 🔭 Atualmente desenvolvendo **projetos acadêmicos e pessoais na área de TI**
+* 🌱 Atualmente estudando **Python, C e Java**
+* 👯 Buscando colaborar em **projetos de tecnologia, suporte e infraestrutura**
+* 🤔 Buscando aprimorar meus conhecimentos em **programação e tecnologia**
+* 💬 Pode falar comigo sobre **Windows, hardware, redes e suporte técnico**
+* 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/brunodossantosdasilva/) | [E-mail](mailto:brunodsantos.silv1@gmail.com)
+* ⚡ Tenho bons conhecimentos do **ambiente Windows**, incluindo configuração, otimização, troubleshooting e gerenciamento do sistema
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,powershell)](https://skillicons.dev)
+
+**Windows:** PowerShell e Prompt de Comando (CMD)
+
+## 🌐 Contatos
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunodsantos.silv1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunodossantosdasilva/)
